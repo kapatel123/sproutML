@@ -68,7 +68,7 @@ class ModelTypes:
         Gets model and dictionary of tunable hyperparameters for supported model_name.
         """
         if model_name == 'logistic_regression':
-            model, params = ModelTypes.random_forest_model()
+            model, params = ModelTypes.logistic_regression_model()
         elif model_name == 'randomforest':
             model, params = ModelTypes.random_forest_model()
         elif model_name == 'xgboost':
