@@ -13,6 +13,6 @@ Rough outline of roadmap (if all comes to fruition)
 
 
 Goal(s)
-- Build up current knowledge on design-oriented application
+- Develop better design-oriented mindset for development purposes
   - Ex. Leverage containerized foundation for scaling purposes 
 - because
